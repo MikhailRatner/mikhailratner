@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mikhail
 #### Full Stack Developer with a background in marketing and political science 🧑‍💻🙋‍♂️👨‍🎓
 
-Currently developing technologies for our clients at COSUTEC GmbH with Angular 12 and Bootstrap 5.
+Currently developing technologies for our clients at COSUTEC GmbH with Angular 15 and Bootstrap 5.
 
 ### Tech Stack
 JS / ANGULAR / REACT / VUE / NODE / HTML / CSS / POSTGRESSQL
